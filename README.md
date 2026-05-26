@@ -1,1 +1,1 @@
-# PartnersWeek
+# PartnersWeek project
