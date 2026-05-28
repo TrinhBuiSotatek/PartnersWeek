@@ -19,7 +19,7 @@
 | User | 1.2 | UC-1.2 | Public | Public Directory | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | User | 1.3 | UC-1.3 | Auth | User Authentication | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | User | 1.4 | UC-1.4 | Profile | User Profile | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
-| User | 1.5 | UC-1.5 | Catalog/Purchase | Distinction Purchase | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
+| User | 1.5 | UC-1.5 | Catalog/Purchase | Distinction Purchase | Yes | Specs: V1<br>WF: V1<br>Audited: V2<br>Scenario: Missing<br>TC md: V1<br>TC xlsx: V1 | UC review: ✅ READY (70,0/100) — Q1-Q10 BA resolved | | v1 generated | |
 | User | 1.6 | UC-1.6 | NFT/Wallet | NFT Transfer | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | User | 1.7 | UC-1.7 | NFT/Wallet | Wallet | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | User | 1.8 | UC-1.8 | Events | Event Access | Yes | Specs: V1<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
