@@ -29,7 +29,7 @@
 | Admin | 2.11 | 2.11 | Profile | Admin Profile | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | Admin | 2.12 | 2.12 | Admin Mgmt | Admin Management | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | Admin | 2.13 | 2.13 | User Mgmt | User Management | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
-| Admin | 2.14 | 2.14 | Distinction Mgmt | Distinction Management | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
+| Admin | 2.14 | UC-2.14 | Distinction Mgmt | Package Configuration | Yes | Specs: V1 (New CR)<br>WF: V1<br>Audited: V2<br>Scenario: V2<br>TC md: V1<br>TC xlsx: Missing | UC review: ✅ READY (90,0/100) — All Qs resolved | v2 generated | v1 generated | |
 | Admin | 2.15 | 2.15 | Event Mgmt | Event Management | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | Admin | 2.16 | 2.16 | Points | Points Distribution | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | Admin | 2.17 | 2.17 | Awards | NFT Partners Awards | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
