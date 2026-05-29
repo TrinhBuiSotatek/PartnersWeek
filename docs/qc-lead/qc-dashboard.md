@@ -36,3 +36,4 @@
 | Admin | 2.18 | 2.18 | Dashboard | Admin Dashboard | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | Admin | 2.19 | 2.19 | Distinction | Distinction Distribute | Yes | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
 | Admin | 2.20 | 2.20 | Directory | Directory Management | Need confirm | Specs: Missing<br>WF: Missing<br>Audited: Missing<br>Scenario: Missing<br>TC md: Missing<br>TC xlsx: Missing | | | | |
+| User | 1.11 | UC-1.11 | Catalog/Purchase | Purchase Package | Need confirm | Specs: V1<br>WF: V1<br>Audited: V2<br>Scenario: V1<br>TC md: V1<br>TC xlsx: V1 | UC review: ✅ READY (95,4/100) — all Qs resolved | v1 generated | v1 generated | |
